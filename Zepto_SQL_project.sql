@@ -6,7 +6,7 @@
 CREATE DATABASE ZEPTO_SQL_PROJECT;
 USE ZEPTO_SQL_PROJECT;
 
---------------------------------------------
+-------------------------------------------
 -- 2. INITIAL CHECK
 --------------------------------------------
 SELECT * FROM zepto;
