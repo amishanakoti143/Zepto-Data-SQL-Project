@@ -92,12 +92,12 @@ Here are a few example queries from the project:
 
 ### 🔹 Top 5 Categories by Average Discount.
 <p align="center">
-  <img src="Assets/top_10.png" alt="Best Value Query" width="300">
+  <img src="assets/highest Average revenue.png" alt="Best Value Query" width="400">
 </p>
 
 ### 🔹  Estimated Revenue per Category.
 <p align="center">
-  <img src="Assets/revenue.png" alt="Revenue Query" width="300">
+  <img src="assets/revenue.png" alt="Revenue Query" width="400">
 </p>
 
 ---
