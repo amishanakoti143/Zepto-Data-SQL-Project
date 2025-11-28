@@ -86,20 +86,6 @@ Shows total weight contribution of each category.
 
 ---
 
-## 📁 Repository Contents  
-- `zepto_sql_script.sql` — Full SQL script  
-- `README.md` — Project documentation  
-
----
-
-## 🚀 How to Use  
-1. Clone this repository  
-2. Import the Zepto dataset into MySQL  
-3. Run the SQL script step-by-step  
-4. Explore insights or adapt the queries as needed  
-
----
-
 ## 👩‍💻 Author  
 **Amisha Nakoti**  
 *Data Analyst | SQL | BI | Data Projects*
