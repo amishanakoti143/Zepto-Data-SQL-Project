@@ -1,5 +1,5 @@
 # 📊 Zepto SQL Data Analysis Project  
-SQL-based analysis and cleaning of Zepto’s product dataset with insights on pricing, discounts, revenue, and inventory
+SQL-based analysis and cleaning of Zepto’s product dataset with insights on pricing, discounts, revenue, and inventory 
 
 *End-to-End Data Cleaning • Exploration • Insights*
 
