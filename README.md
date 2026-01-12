@@ -47,7 +47,7 @@ Initial exploration includes:
 - Out-of-stock vs in-stock items  
 - Pricing and discount patterns  
 
----
+--- 
 
 ## 📈 Business Insights & SQL Analysis  
 This project answers key business questions:
